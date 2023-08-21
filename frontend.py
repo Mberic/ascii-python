@@ -2,7 +2,7 @@ from art import tprint
 from web3 import Web3, AsyncWeb3
 import json
 
-HARDHAT_DEFAULT_RPC_URL = 'https://8545-cartesi-rollupsexamples-kpajxxo360p.ws-eu104.gitpod.io'
+HARDHAT_DEFAULT_RPC_URL = 'http://127.0.0.1:8545'
 INPUT_BOX = '0x5a723220579C0DCb8C9253E6b4c62e572E379945'
 ASCII_CARTESI_DAPP = '0x142105FC8dA71191b3a13C738Ba0cF4BC33325e2'
 
